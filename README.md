@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img width="200" src="https://raw.githubusercontent.com/paishu/nv-blog/master/assets/logo.png">
+        <img width="80" src="https://raw.githubusercontent.com/paishu/nv-blog/master/assets/logo.png">
     </a>
 </p>
 
